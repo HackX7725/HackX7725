@@ -1,26 +1,28 @@
 <div align="center">
 
-# HASSAN RAZA
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=200&section=header&text=HASSAN%20RAZA&fontSize=60&fontColor=101414&fontAlignY=35&desc=Full%20Stack%20Developer%20—%20React%20·%20Next.js%20·%20Node.js%20·%20UI/UX&descAlignY=65&descSize=18" width="100%" />
 
-**Full Stack Developer — React · Next.js · Node.js · UI/UX**
+<br />
 
----
+### Currently building **Tradixa** & **TaskManly**
 
-### Currently building Tradixa & TaskManly
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-00E676?style=for-the-badge&labelColor=181818)
-![Based In](https://img.shields.io/badge/BASED_IN-PAKISTAN-FFB300?style=for-the-badge&labelColor=181818)
-![Focus](https://img.shields.io/badge/FOCUS-FULL_STACK_%2B_UI%2FUX-7C4DFF?style=for-the-badge&labelColor=181818)
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00E676?style=for-the-badge&labelColor=121316&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASED_IN-PAKISTAN-FFB300?style=for-the-badge&labelColor=121316&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%2B_UI%2FUX-7C4DFF?style=for-the-badge&labelColor=121316&logoColor=white" />
+</p>
 
 </div>
 
 <br />
 
-## 💻 whoami
+## 💲 whoami
 
 ```yaml
-role:      Junior Developer & UI/UX Designer
-stack:     Frontend (React, Next.js, Tailwind CSS) · Backend (Node.js, Express, PHP)
-databases: MongoDB, Firestore, SQLite
-currently: { building: "Tradixa Marketplace & TaskManly", learning: "Advanced System Architecture" }
+role:      Junior Full Stack Developer & UI/UX Designer
+stack:     React, Next.js, Node.js, Express, PHP, Tailwind CSS
+databases: Firebase Firestore, MongoDB, SQLite
+currently: { building: "Tradixa E-Commerce & TaskManly", learning: "Advanced System Architecture" }
 reach_me:  { email: "hassanmian2750@gmail.com", linkedin: "(www.linkedin.com/in/hassan-raza-34148735b)" }
