@@ -23,4 +23,4 @@ role:      Junior Developer & UI/UX Designer
 stack:     Frontend (React, Next.js, Tailwind CSS) · Backend (Node.js, Express, PHP)
 databases: MongoDB, Firestore, SQLite
 currently: { building: "Tradixa Marketplace & TaskManly", learning: "Advanced System Architecture" }
-reach_me:  { email: "hassanmian2750@gmail.com", linkedin: "[www.linkedin.com/in/hassan-raza-34148735b](www.linkedin.com/in/hassan-raza-34148735b)" }
+reach_me:  { email: "hassanmian2750@gmail.com", linkedin: "(www.linkedin.com/in/hassan-raza-34148735b)" }
